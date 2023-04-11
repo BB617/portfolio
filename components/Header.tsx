@@ -27,7 +27,12 @@ export default function Header({}: Props) {
           url='https://github.com/BB617'
           fgColor='gray'
           bgColor='transparent'
-          />
+        />
+        <SocialIcon
+          url='https://qiita.com/BOB_1994'
+          fgColor='gray'
+          bgColor='transparent'
+        />
       </motion.div>
 
       <motion.div
